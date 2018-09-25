@@ -12,7 +12,7 @@
             text-decoration: none;
             font-size: 17px;
 }
-.title {
+#title {
   color: teal;
-  font-family: times new roman;
+  font-family: times-new-roman;
 }
